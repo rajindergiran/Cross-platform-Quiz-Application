@@ -1,5 +1,10 @@
 # Crossplatform-Quiz-Application
 
+A cross-platofrm application where the students can login in and sign up for a online quiz.The teachers can update the questions as per the curriculum in the DB and the students have to login and just update the answers and submit the paper online.After the submit button is clicked the students get the results real-time.
+
+Technologies:HTML,CSS,PHP,SQL
+
+Screen-shots:
 
 <img width="451" alt="screen shot 2018-09-05 at 12 03 56 am" src="https://user-images.githubusercontent.com/32308521/45070478-71c7ac80-b09f-11e8-8d63-737a81d57518.png"><img width="1430" alt="screen shot 2018-09-05 at 12 01 34 am" src="https://user-images.githubusercontent.com/32308521/45070458-5c528280-b09f-11e8-9f83-b981a0eb3f24.png">
 <img width="1435" alt="screen shot 2018-09-05 at 12 02 08 am" src="https://user-images.githubusercontent.com/32308521/45070460-5d83af80-b09f-11e8-91cf-08a51a7c7d84.png">
